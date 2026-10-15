@@ -4,6 +4,7 @@ from maps.TsuboiOsusume import TsuboiOsusume
 from maps.TajiOsusume import TajiOsusume
 from maps.Tsutsumi_osusume import Tsutsumi_osusume
 # ↓のリストには、メンバーの各オススメ学食が格納されます。
+
 data = [GakushokuSample(), 
         TsuboiOsusume(), 
         TajiOsusume(),
